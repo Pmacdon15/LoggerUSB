@@ -1,0 +1,15 @@
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\bin\Release\net7.0\LoggerUSB.exe
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\bin\Release\net7.0\LoggerUSB.deps.json
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\bin\Release\net7.0\LoggerUSB.runtimeconfig.json
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\bin\Release\net7.0\LoggerUSB.dll
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\bin\Release\net7.0\LoggerUSB.pdb
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\LoggerUSB.csproj.AssemblyReference.cache
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\LoggerUSB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\LoggerUSB.AssemblyInfoInputs.cache
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\LoggerUSB.AssemblyInfo.cs
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\LoggerUSB.csproj.CoreCompileInputs.cache
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\LoggerUSB.dll
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\refint\LoggerUSB.dll
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\LoggerUSB.pdb
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\LoggerUSB.genruntimeconfig.cache
+C:\Users\pmacd\Documents\projects\LoggerUSB\LoggerUSB\obj\Release\net7.0\ref\LoggerUSB.dll

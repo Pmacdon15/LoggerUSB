@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3I7PbS8FWY0ZiUBrm4D2VWU2oR9pSa8eynfSQR0Q9YBZL5wSfL7t37G/ZQm5G1FidRShzPNghcN+B8tVAIGzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmacd\\Documents\\projects\\LoggerUSB\\LoggerUSB\\LoggerUSB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmacd\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.7\\microsoft.netcore.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\pmacd\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\pmacd\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.7\\microsoft.aspnetcore.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\pmacd\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.7\\microsoft.netcore.app.crossgen2.win-x64.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
